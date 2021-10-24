@@ -1,0 +1,7 @@
+C:\Users\wirioliveira\source\repos\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe.config
+C:\Users\wirioliveira\source\repos\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe
+C:\Users\wirioliveira\source\repos\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.pdb
+C:\Users\wirioliveira\source\repos\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.AssemblyReference.cache
+C:\Users\wirioliveira\source\repos\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.exe
+C:\Users\wirioliveira\source\repos\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.pdb
